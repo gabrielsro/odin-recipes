@@ -1,0 +1,21 @@
+*{
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.recipeList, li, a{
+    background-color: beige;
+}
+
+.recipeList{
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
