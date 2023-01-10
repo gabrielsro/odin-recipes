@@ -4,6 +4,10 @@
     padding: 0px;
 }
 
+body{
+    font-family: "Open Sans", "PT Sans", monospace;
+}
+
 h1{
     margin-bottom: 10px;
 }
@@ -11,6 +15,7 @@ h1{
 .recipeList, li, a{
     background-color: beige;
 }
+
 
 .recipeList{
     display: flex;
